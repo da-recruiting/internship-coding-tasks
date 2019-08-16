@@ -10,11 +10,11 @@
 課題説明
 ----
 ### 課題１
-Kaggleにおける手書き数値分類問題（[リンク](https://www.kaggle.com/c/digit-recognizer/overview)）を解いてください。
+手書き数値（MNIST）分類問題を解いてください。
 回答に関しては、README-K1.mdを記入の上ソースコードと共に以下の手順に従って提出してください。
 
 ### 課題２
-Kaggleにおける家賃予測回帰問題（[リンク](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)）を解いてください。
+家賃予測回帰問題を解いてください。
 回答に関しては、README-K2.mdを記入の上ソースコードと共に以下の手順に従って提出してください。
 
 ### 課題３
