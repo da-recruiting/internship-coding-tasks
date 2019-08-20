@@ -37,9 +37,9 @@ Kaggle等のスコアやGithubアカウントなどご自身のスキルをア�
 3. 各提出課題に対しREADMEファイルをそれぞれREADME-K1~4テンプレートを基に作成し、1で作成されたレポジトリにプッシュして下さい。
 4. 3のレポジトリへのリンク（URL）を課題エントリーフォームにおける課題提出用レポジトリURL入力欄に貼り付けて下さい。
 
-課題フォルダー
+その他
 ---
-詳細説明、データ、READMEテンプレート等につきまして、フォルダー[DENTSU_DATA_ARTIST_INTERNSHIP_2019](https://github.com/da-recruiting/internship-coding-tasks/tree/master/DENTSU_DATA_ARTIST_INTERNSHIP_2019)を確認して下さい。
+詳細説明、データ、READMEテンプレート等につきましては、フォルダー[DENTSU_DATA_ARTIST_INTERNSHIP_2019](https://github.com/da-recruiting/internship-coding-tasks/tree/master/DENTSU_DATA_ARTIST_INTERNSHIP_2019)を確認して下さい。
 
 お問い合わせ
 ----
