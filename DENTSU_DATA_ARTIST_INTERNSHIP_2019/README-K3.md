@@ -12,7 +12,7 @@
 
 テスト結果
 ----
-* Sample.csvにおける各記事（text）に該当するdoc_idを2d平面上にプロットし、画像を添付して下さい。 
+* [Sample.csv](https://github.com/da-recruiting/internship-coding-tasks/blob/master/DENTSU_DATA_ARTIST_INTERNSHIP_2019/Sample.csv)における各記事（doc_text）に該当するdoc_idを2d平面上にプロットし、画像を添付して下さい。 
 * 各クラスターにおける出現頻度の高いキーワードのうち上位100をそれぞれリストアップして下さい。 
   * なお、キーワードランキングを算出する際は、それぞれのクラスターにしか存在しない（unique）キーワードを対象とします。
 * 各クラスターにおける特徴を示し(方法は自由)、クラスターの性質に関する見解と考察（ジャンルを当てはめるなど）を記入して下さい。
