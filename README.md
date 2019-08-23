@@ -11,8 +11,8 @@
 課題説明
 ----
 ### 課題１
-手書き数値（MNIST）分類モデルを実装し、ソースコードとテスト結果を提出してください。
-手描き数値データに関しては、任意のオープンデータセット（MNIST）を利用して下さい。
+手書き数字（MNIST）分類モデルを実装し、ソースコードとテスト結果を提出してください。
+手描き数字データに関しては、任意のオープンデータセット（MNIST）を利用して下さい。
 回答に関しては、[README-K1.md](https://github.com/da-recruiting/internship-coding-tasks/blob/master/DENTSU_DATA_ARTIST_INTERNSHIP_2019/README-K1.md)に記載の各回答項目を準備し、ソースコードと共に下記「回答提出手順」に従って提出してください。
 
 ### 課題２
