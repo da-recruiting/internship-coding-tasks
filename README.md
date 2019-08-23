@@ -17,7 +17,7 @@
 
 ### 課題２
 物件価格予測用回帰モデルを実装し、ソースコードとテスト結果を提出して下さい。
-データに関しては、Price.csv（[GPL 2](http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)）を利用して下さい。
+データに関しては、[Price.csv](https://github.com/da-recruiting/internship-coding-tasks/blob/master/DENTSU_DATA_ARTIST_INTERNSHIP_2019/Price.csv)（[GPL 2](http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)）を利用して下さい。
 回答に関しては、[README-K2.md](https://github.com/da-recruiting/internship-coding-tasks/blob/master/DENTSU_DATA_ARTIST_INTERNSHIP_2019/README-K2.md)に記載の各回答項目を準備し、ソースコードと共に下記「回答提出手順」に従って提出してください。
 
 ### 課題３
