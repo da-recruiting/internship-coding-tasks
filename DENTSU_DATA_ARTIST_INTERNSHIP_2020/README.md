@@ -28,11 +28,12 @@ AIエンジニアリングコースエントリー課題
 回答に関しては、[README-K2.md](https://github.com/da-recruiting/internship-coding-tasks/blob/master/DENTSU_DATA_ARTIST_INTERNSHIP_2020/README-K2.md)に記載の各回答項目を準備し、ソースコードと共に下記「回答提出手順」に従って提出してください。
 
 ### 課題３
-原著論文かつdeeplearningのアルゴリズム・アーキテクチャを紹介している論文を読み、他者に説明するためのプレゼン資料を作成してください（レビュー論文は対象外とします）資料はPDF化し、下記「回答提出手順」に従って提出してください。
+原著論文かつdeeplearningのアルゴリズム・アーキテクチャを紹介している論文を読み、他者に説明するためのプレゼン資料を作成してください
+[README-K3.md](https://github.com/da-recruiting/internship-coding-tasks/blob/master/DENTSU_DATA_ARTIST_INTERNSHIP_2020/README-K3.md)を参考に、下記「回答提出手順」に従って提出してください。
 
 ### 課題４
 Kaggle等のスコアやGithubアカウントなどご自身のスキルをアピールできるものを提示して下さい。
-回答に関しては、[README-K4.md](https://github.com/da-recruiting/internship-coding-tasks/blob/master/DENTSU_DATA_ARTIST_INTERNSHIP_2020/README-K4.md)に記載の各回答項目を準備し、下記「回答提出手順」に従って提出してください。
+[README-K4.md](https://github.com/da-recruiting/internship-coding-tasks/blob/master/DENTSU_DATA_ARTIST_INTERNSHIP_2020/README-K4.md)を参考に、下記「回答提出手順」に従って提出してください。
 
 回答提出手順
 ----
